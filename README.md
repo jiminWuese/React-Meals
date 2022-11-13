@@ -1,4 +1,4 @@
-# React-Meals
+# [React-Meals](https://jimin-787a3.web.app/)
 This project is all about react. It covers the following concepts in react:
 * Components,
 * Styling react apps,
@@ -11,5 +11,9 @@ This project is all about react. It covers the following concepts in react:
 * Handling http request,
 * Working with forms and user inputs,
 * Custom hooks and more. 
+* Deploying react applications.
+
+Take a look by clicking this [link](https://jimin-787a3.web.app/). Make sure you order a meal, who knows, I may deliver your order. 
 The project is inspired by a react course on udemy by Maximilian S.
-![pix 1](https://user-images.githubusercontent.com/90454194/201495655-797ef919-bfac-4ba9-9cbb-731eb3be6d00.PNG)
+
+Cheers.
